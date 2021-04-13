@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2016-04-04-about-the-author copy"
+title: "פלטפורמת הקניה החדשה לאמהות"
 author: "Paul Le"
 categories: [facts, documentation,sample]
 tags: [sample, facts]
